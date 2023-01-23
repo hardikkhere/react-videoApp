@@ -5,11 +5,11 @@ import { Carousel } from 'react-responsive-carousel';
 import img1 from '../assets/1.jpg';
 import img2 from '../assets/2.jpg';
 import img3 from '../assets/3.jpg';
-import img4 from '../assets/4.jpg';
+// import img4 from '../assets/4.jpg';
 import img5 from '../assets/5.png';
-import img6 from '../assets/6.jpeg';
+// import img6 from '../assets/6.jpeg';
 import img7 from '../assets/7.jpg';
-import img8 from '../assets/8.jpg';
+// import img8 from '../assets/8.jpg';
 import img9 from '../assets/9.webp';
 
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
