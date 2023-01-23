@@ -91,21 +91,21 @@ const MyCarousel = () => (
     <Box w={'full'} h={'100vh'}>
       <Image src={img3} />
       <Heading bgColor={'whiteAlpha.600'} color="black" {...headingOptions}>
-        Gaming Future
+        Gaming on Console
       </Heading>
     </Box>
 
     <Box w={'full'} h={'100vh'}>
       <Image src={img7} />
       <Heading bgColor={'whiteAlpha.600'} color="black" {...headingOptions}>
-        Gaming Future
+        Change The Future
       </Heading>
     </Box>
 
     <Box w={'full'} h={'100vh'}>
       <Image src={img5} />
       <Heading bgColor={'whiteAlpha.600'} color="black" {...headingOptions}>
-        Gaming Future
+        Metaverse
       </Heading>
     </Box>
   </Carousel>
